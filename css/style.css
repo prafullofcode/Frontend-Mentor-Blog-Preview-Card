@@ -10,16 +10,7 @@
     --gray_500: hsl(0, 0%, 42%);
     --gray_950: hsl(0, 0%, 7%);
 }
-/* 
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 300 to 900
 
-.figtree-<uniquifier> {
-  font-family: "Figtree", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
 html{
     font-size: 10px;
 }
